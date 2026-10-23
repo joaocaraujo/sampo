@@ -1,0 +1,8 @@
+# Ignorar dados sensíveis e pessoais
+users/
+*.csv
+*.xlsx
+*.pdf
+*.jpg
+*.png
+.env
